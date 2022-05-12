@@ -1,5 +1,3 @@
-# M3_STM32_Carwipers
-
 # SOFTWARE REQUIREMENTS:
 * STM32 CubeIDE
 # COMPONENTS:
@@ -25,3 +23,33 @@
 * To keep the windscreen clean enough to give adequate view at all times. #WHEN The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 # WHO:
 * Mark Anderson invented on 1902
+# STRENGTH:
+* Low Budget
+* Good Reputation
+* High Bargaining Power Supliers
+* Big Influence on the Market
+
+# WEAKNESS:
+* Structural Inertia
+* High Transaction Cost
+* No Focus on Private Sector
+* Week Focus on Process Innovations
+
+# OPPORTUNITIES:
+* Emerging New Markets
+* Technological Development
+* Demand for Saver Equipments
+* Technological Lock in of Product
+
+# THREATS:
+* Low Bargaining Power Buyers
+* Highly REgulated Industry
+* Ethical Pressure
+* Econimical Crisis
+
+# HIGH LEVEL REQUIREMENTS:
+![HIGH](https://user-images.githubusercontent.com/102654901/168132048-2cd38c8f-9681-4766-9d16-d11e40d6b595.png)
+
+# LOW LEVEL REQUIREMENTS:
+![LOW](https://user-images.githubusercontent.com/102654901/168132311-239ead4b-1455-48ae-8607-ede11062d87a.png)
+
