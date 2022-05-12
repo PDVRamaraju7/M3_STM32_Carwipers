@@ -1,7 +1,11 @@
 # SOFTWARE REQUIREMENTS:
 * STM32 CubeIDE
-# COMPONENTS:
-* STM32F407VG MICROCONTROLLER BOARD
+# COMPONENTS AND SUPPLIES:
+1. STM32F407 Discovery Board
+2. Push Button
+3. LEDs
+4. Resistors
+5. Power Suppl
 # Abstract:
 * A wiper is a necessary component that cleans raindrops or any other liquid off the vehicle's windscreen. The prior system required manual wiper activation, and the operation of bringing up the wiper was difficult to manage. As a result, this method is proposed to address these issues. The project's goals are to improve ageing automobiles' systems by giving automated transmission. wiping system, to enhance the system by including a sensor and an actuator, and to create a simple software that would completely work with the system the framework.This proposed wiper system's principle is comparable to those of other existing conventional wipers.
                       
@@ -76,7 +80,16 @@
 
 ![Low level test case](https://user-images.githubusercontent.com/102654901/168135790-337190fe-7244-43c6-a816-e5812422ec54.png)
 
+# ADVANTAGES:
+* To save money during wet seasons, turn off the irrigation system. Electricity bills are lowered as a consequence.
+* Rain sensors store water during rain events, allowing it to be available throughout the summer and winter.
+* As a consequence, rain sensor-based equipment like vehicle wipers and irrigation systems last longer since they only work when needed.
+* It is quite simple to use.
+* As a consequence, less energy is consumed.
+* Rain sensor-based systems are extremely simple to install.
+* Individual rain sensors are fairly inexpensive.
 
-
-
-
+# Disadvantages:
+* When water falls squarely on the rain sensor, the mechanism activates.
+* The entire system cost rises when more components, including a rain sensor, are required.
+* Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain. 
