@@ -15,6 +15,15 @@
 * Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
 * 512 bytes of OTP memory.
 * Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
+
+# BLOCK DIAGRAM :
+
+![Block Diagram](https://user-images.githubusercontent.com/102654901/168133233-625f90a3-a883-4ded-831e-3c5ec85f07e5.png)
+
+# FLOWCHART :
+
+![Flow chart](https://user-images.githubusercontent.com/102654901/168133468-fac8da58-33f5-4dd4-972e-99b5ae87e56f.png)
+
 # WORKING PRINCIPLE:
 * Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
 # USES:
