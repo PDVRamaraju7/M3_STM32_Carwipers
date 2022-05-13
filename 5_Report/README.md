@@ -80,6 +80,24 @@
 
 ![Low level test case](https://user-images.githubusercontent.com/102654901/168135790-337190fe-7244-43c6-a816-e5812422ec54.png)
 
+# OUTPUT IMAGES
+1. user button and hold it for two seconds
+![user button and hold it for two seconds](https://user-images.githubusercontent.com/102654901/168221668-2e2a29ec-fc46-402c-bf53-31056d4d11b9.png)
+
+2. WIPER SPEED LOW
+![WIPER SPEED LOW](https://user-images.githubusercontent.com/102654901/168221719-4518fed3-fc67-4895-8292-dd0dab209dd9.png)
+
+3. WIPER SPEED MEDIUM
+
+![WIPER SPEED MEDIUM](https://user-images.githubusercontent.com/102654901/168221767-7e6adad0-d0a4-431a-bebe-cde4ab4b945a.png)
+
+4. WIPER SPEED IS HIGH
+![WIPER SPEED IS HIGH](https://user-images.githubusercontent.com/102654901/168221829-3520926e-e234-4a0d-96a2-e247806dc7db.png)
+
+5. user button is pressed and held for 2 seconds, the red LED is off
+![use button is pressed and held for 2 seconds,the red LED is off](https://user-images.githubusercontent.com/102654901/168221898-40387bc9-4d7b-40a4-aada-9558acb188dc.png)
+
+
 # ADVANTAGES:
 * To save money during wet seasons, turn off the irrigation system. Electricity bills are lowered as a consequence.
 * Rain sensors store water during rain events, allowing it to be available throughout the summer and winter.
