@@ -15,6 +15,10 @@
 5. user button is pressed and held for 2 seconds, the red LED is off
 ![use button is pressed and held for 2 seconds,the red LED is off](https://user-images.githubusercontent.com/102654901/168221898-40387bc9-4d7b-40a4-aada-9558acb188dc.png)
 
+# WORKING PRINCIPLE:
+* Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
+
+
 # FEATURES:
 
 1. It will lock the vehicle when the button is squeezed once
