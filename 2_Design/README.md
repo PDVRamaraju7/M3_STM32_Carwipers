@@ -1,6 +1,7 @@
 # BLOCK DIAGRAM :
 
-![Block Diagram](https://user-images.githubusercontent.com/102654901/168133233-625f90a3-a883-4ded-831e-3c5ec85f07e5.png)
+![Block Diagram](https://user-images.githubusercontent.com/102654901/168461966-ebe84783-5e8b-48c4-a8fb-5ca22fa4d8b5.png)
+
 
 # FLOWCHART :
 
