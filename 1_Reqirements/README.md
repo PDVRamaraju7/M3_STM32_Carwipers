@@ -19,11 +19,16 @@ By using STM32F407,buttons,4 LED's the project should be done using the timers a
 * The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC    core operating at a frequency of up to 168 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded 
 # STM32F407VG:
 
-# FEATURES OF STM32F407VG MICROCONTROLLER:
-* Up to 1 Mbyte of Flash memory.
-* Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
-* 512 bytes of OTP memory.
-* Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
+# FEATURES :
+1. It will lock the vehicle when the button is squeezed once
+2. It will open the vehicle when the button is squeezed two times
+3. It will wiper on and it moves clock wise bearing and when the button is squeezed threefold
+4. It will wiper off and it moves hostile to clock wise heading and when the button is squeezed multiple times
+5. It will wiper complete one cycle when the button is squeezed multiple times.
+6. Up to 1 Mbyte of Flash memory.
+7.Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
+8.512 bytes of OTP memory.
+9. Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
 # WORKING PRINCIPLE:
 * Assume that the automobile is the microcontroller. If the button is hit, the first led (red) will turn on, Clicking again the wiper will start, and the second led (blue) will turn on for a desired rate. If the button is pressed again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. The fourth press will turn on the fourth led (orange), and the wiper speed will be increased in accordance with the previous one. The microcontroller (vehicle) is turned off after the fifth click.
 # USES:
