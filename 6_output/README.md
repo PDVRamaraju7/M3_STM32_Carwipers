@@ -22,3 +22,7 @@
 3. It will wiper on and it moves clock wise bearing and when the button is squeezed threefold
 4. It will wiper off and it moves hostile to clock wise heading and when the button is squeezed multiple times
 5. It will wiper complete one cycle when the button is squeezed multiple times.
+6. Up to 1 Mbyte of Flash memory.
+7. Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
+8. 512 bytes of OTP memory.
+9. Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
